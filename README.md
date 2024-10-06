@@ -9,8 +9,6 @@ This project provides a Python implementation of the Data Encryption Standard (D
 - [Usage](#usage)
 - [File Structure](#file-structure)
 - [Functionality](#functionality)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
