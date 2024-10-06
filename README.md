@@ -40,13 +40,13 @@ print(f"Ciphertext: {ciphertext}")
 decrypted_text = des_decrypt(ciphertext, key)
 print(f"Decrypted text: {decrypted_text}")
 
+```
 .
 ├── des.py                # Main implementation of DES algorithm
 ├── des_keygen.py         # Key generation module
 ├── utils.py              # Utility functions for permutations, expansions, etc.
 ├── requirements.txt      # Dependencies for the project
 └── README.md             # Project documentation
-
 Functionality
 
 Key Functions
